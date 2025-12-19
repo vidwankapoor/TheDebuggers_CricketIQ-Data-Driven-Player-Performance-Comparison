@@ -1,4 +1,4 @@
-Performance Comparison of Two Cricketers Using Statistical Data Analysis and Hypothesis Testing
+CricketIQ
 # Project Overview
 
 Cricket player evaluation is often influenced by opinions, recent form bias, or simple averages, despite the availability of detailed match data. This project presents a data-driven and statistically validated framework to compare the performance of two cricketers using IPL ball-by-ball data.
